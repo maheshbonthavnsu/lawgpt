@@ -2,7 +2,7 @@
 <h3 align="center">Know Your Rights! Better Citizen, Better Nation!</h1>
 
 <p align="center">
-<img src="https://github.com/harshitv804/LawGPT/assets/100853494/ecff5d3c-f105-4ba2-a93a-500282f0bf00" width="700"/>
+<img src="https://github.com/maheshbonthavnsu/lawgpt/blob/main/images.jpg?raw=true" width="700"/>
 </p>
 
 ## About The Project
@@ -11,7 +11,7 @@ LawGPT is a RAG based generative AI attorney chatbot that is trained using India
 
 <div align="center">
   <br>
-  <video src="https://github.com/harshitv804/LawGPT/assets/100853494/b6711fd6-87df-4a37-ba24-317c50dc6f8f" width="400" />
+ # <video src="https://github.com/harshitv804/LawGPT/assets/100853494/b6711fd6-87df-4a37-ba24-317c50dc6f8f" width="400" />
   <br>
 </div>
 
@@ -24,7 +24,7 @@ LawGPT is a RAG based generative AI attorney chatbot that is trained using India
 
 #### 1. Clone the repository:
    - ```
-     git clone https://github.com/harshitv804/LawGPT.git
+     git clone https://github.com/maheshbonthavnsu/lawgpt.git
      ```
 #### 2. Install necessary packages:
    - ```
@@ -41,5 +41,5 @@ LawGPT is a RAG based generative AI attorney chatbot that is trained using India
 #### 5. To run the `app.py` file, open the CMD Terminal and and type `streamlit run FULL_FILE_PATH_OF_APP.PY`.
 
 ## Contact
-If you have any questions or feedback, please raise an [github issue](https://github.com/harshitv804/LawGPT/issues).
+If you have any questions or feedback, please raise an [github issue](https://github.com/maheshbonthavnsu/lawgpt/issues).
 # lawgpt
