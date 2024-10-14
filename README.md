@@ -11,7 +11,7 @@ LawGPT is a RAG based generative AI attorney chatbot that is trained using India
 
 <div align="center">
   <br>
- # <video src="https://github.com/harshitv804/LawGPT/assets/100853494/b6711fd6-87df-4a37-ba24-317c50dc6f8f" width="400" />
+
   <br>
 </div>
 
