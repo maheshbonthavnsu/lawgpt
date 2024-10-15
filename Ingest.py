@@ -19,4 +19,4 @@ faiss_db.save_local("ipc_vector_db")
 
 from langchain import load
 
-data = load('https://github.com/maheshbonthavnsu/lawgpt/blob/main/index.pkl', allow_dangerous_deserialization=True)
+data = load('https://github.com/maheshbonthavnsu/lawgpt/blob/main/index.pkl',allow_dangerous_deserialization=True)
