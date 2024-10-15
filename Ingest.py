@@ -19,4 +19,4 @@ faiss_db.save_local("ipc_vector_db")
 
 from langchain import load
 
-data = load('path/to/file.pkl', allow_dangerous_deserialization=True)
+data = load('C:\Users\mahes\LawGPT\ipc_vector_db\index.pkl', allow_dangerous_deserialization=True)
