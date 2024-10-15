@@ -10,3 +10,5 @@ einops
 streamlit
 pandas
 langchain-community
+langchain-together
+
