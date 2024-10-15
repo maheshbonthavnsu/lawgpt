@@ -1,3 +1,4 @@
+import langchain_community
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.prompts import PromptTemplate
@@ -7,7 +8,6 @@ from langchain.memory import ConversationBufferWindowMemory
 from langchain.chains import ConversationalRetrievalChain
 import streamlit as st
 import time
-
 
 st.set_page_config(page_title="LawGPT")
 col1, col2, col3 = st.columns([1,4,1])
